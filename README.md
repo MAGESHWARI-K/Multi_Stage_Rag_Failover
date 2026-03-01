@@ -54,7 +54,7 @@ User Query
 
 ---
 
-## Author
+## Authors
 
-## Mageshwari K
-## Kanagalakshimi P
+ Mageshwari K
+ Kanagalakshimi P
