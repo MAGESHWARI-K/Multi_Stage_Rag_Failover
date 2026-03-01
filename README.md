@@ -53,3 +53,8 @@ User Query
  Tell me about quantum physics 
 
 ---
+
+## Author
+
+## Mageshwari K
+## Kanagalakshimi P
