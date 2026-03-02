@@ -48,8 +48,11 @@ The architecture ensures:
 User Query 
 
  What is RAG? 
+ 
  Explain failover system 
+ 
  How to prevent hallucination?
+ 
  Tell me about quantum physics 
 
 ---
